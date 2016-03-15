@@ -1,0 +1,8 @@
+tap 'homebrew/bundle'
+tap 'homebrew/dupes'
+tap 'homebrew/versions'
+brew 'node'
+brew 'tmux'
+brew 'vim'
+brew 'wemux'
+brew 'git'
